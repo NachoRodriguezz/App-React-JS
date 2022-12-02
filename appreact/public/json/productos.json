@@ -2,122 +2,101 @@
     {
         "id": 1,
         "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "Lenovo",
-        "modelo": "Y510P",
-        "precio": 60000,
-        "stock": 30,
-        "img": "notebook-lenovo.jpg"
+        "nombre": "Palo",
+        "marca": "Vlack",
+        "modelo": "EMULI PRO SPECIAL 95% - LATE BOW",
+        "precio": 108600,
+        "stock": 5,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/palo-vlack.jpg?alt=media&token=a74e80e3-7cf1-4de7-b325-02c26030fe35"
     },
     {
         "id": 2,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Xiomi",
-        "modelo": "Mi-9",
-        "precio": 35000,
-        "stock": 20,
-        "img": "xiaomi-mi-9.jpg"
+        "idCategoria": 1,
+        "nombre": "Palo",
+        "marca": "Sons",
+        "modelo": "AKIN CURVE 90% - ELB",
+        "precio": 91850,
+        "stock": 2,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/palo-sons.jpg?alt=media&token=65919494-e804-4cfe-a14e-dbb2001e00af"
     },
     {
         "id": 3,
-        "idCategoria": 3,
-        "nombre": "Smart Tv",
-        "marca": "Novatech",
-        "modelo": "50D1U",
-        "precio": 57000,
-        "stock": 15,
-        "img": "smart-tv-novatech.jpg"
+        "idCategoria": 1,
+        "nombre": "Palo",
+        "marca": "Naked",
+        "modelo": "ULTRA 95% - MID BOW",
+        "precio": 105479,
+        "stock": 3,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/palo-naked.jpg?alt=media&token=4b45438b-38a0-4731-b166-5eba1795cf43"
     },
     {
         "id": 4,
-        "idCategoria": 4,
-        "nombre": "Camara ",
-        "marca": "iQual",
-        "modelo": "C40",
-        "precio": 8000,
-        "stock": 30,
-        "img": "camara-iqual.jpg"
+        "idCategoria":1,
+        "nombre": "Palo ",
+        "marca": "Brabo",
+        "modelo": "TRADITIONAL CARBON 80 ELB",
+        "precio": 133500,
+        "stock": 0,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/palo-brabo.jpg?alt=media&token=35f096ab-21a9-4e2f-819b-6691ae8dbb77"
     },
     {
         "id": 5,
-        "idCategoria": 4,
-        "nombre": "Mouse",
-        "marca": "Logitech",
-        "modelo": "G502",
-        "precio": 1400,
+        "idCategoria": 2,
+        "nombre": "Mochila",
+        "marca": "Vlack",
+        "modelo": "SINGLE NACIONAL",
+        "precio": 6900,
         "stock": 7,
-        "img": "mouse-logitech.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/mochila-vlack.jpg?alt=media&token=6ec0359f-0321-4c34-afc2-75848a92c3e7"
     },
     {
         "id": 6,
-        "idCategoria": 4,
-        "nombre": "Auriculares",
-        "marca": "Motorola",
-        "modelo": "Pulse",
-        "precio": 4000,
-        "stock": 20,
-        "img": "motorola-pulse.jpg"
+        "idCategoria": 2,
+        "nombre": "Mochila",
+        "marca": "Bunga",
+        "modelo": "BUNGA PORTAPALO",
+        "precio": 13500,
+        "stock": 1,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/mochila-u.jpg?alt=media&token=78dbf944-6b35-4d61-8aaa-54fa229be631"
     },
     {
         "id": 7,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Apple",
-        "modelo": "Iphone X Silver",
-        "precio": 250000,
-        "stock": 10,
-        "img": "iphone-x.jpg"
+        "idCategoria": 3,
+        "nombre": "Guante",
+        "marca": "TK",
+        "modelo": "TOTAL TWO 2.3 IZQUIERDO",
+        "precio": 17500,
+        "stock": 6,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/guante-tk-.jpg?alt=media&token=81151602-fe6d-48c6-bfe0-4c1927498d02"
     },
     {
         "id": 8,
         "idCategoria": 3,
-        "nombre": "Apple TV",
-        "marca": "Apple ",
-        "modelo": "32 Gb",
-        "precio": 45000,
-        "stock": 30,
-        "img": "apple-tv.jpg"
+        "nombre": "Canilleras",
+        "marca": "DRIAL",
+        "modelo": "DRIAL JUNIOR",
+        "precio": 1200,
+        "stock": 10,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/canillera-drial-.jpg?alt=media&token=a35c0486-7b90-472f-85f6-2187f7c4c696"
     },
     {
         "id": 9,
-        "idCategoria": 4,
-        "nombre": "Parlante",
-        "marca": "Kalley",
-        "modelo": "SPK200",
-        "precio": 34000,
-        "stock": 21,
-        "img": "parlante-kalley.png"
+        "idCategoria": 3,
+        "nombre": "Canilleras",
+        "marca": "Vlack",
+        "modelo": "BUMPERS",
+        "precio": 12000,
+        "stock": 3,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/canillera-bumpers.jpg?alt=media&token=5555df74-59bc-4fb3-a1e1-fda07f32c227"
     },
     {
         "id": 10,
-        "idCategoria": 1,
-        "nombre": "Mac Air",
-        "marca": "Apple",
-        "modelo": "M1 2020",
-        "precio": 13000,
-        "stock": 25,
-        "img": "mac-air.jpg"
-    },
-    {
-        "id": 11,
-        "idCategoria": 2,
-        "nombre": "Celular",
-        "marca": "Samsung",
-        "modelo": "S20",
-        "precio": 85000,
-        "stock": 30,
-        "img": "samsung-s20.jpg"
-    },
-    {
-        "id": 12,
-        "idCategoria": 1,
-        "nombre": "Notebook",
-        "marca": "HP",
-        "modelo": "Pavilion 15",
-        "precio": 120000,
-        "stock": 20,
-        "img": "hp-pavilion.jpg"
+        "idCategoria": 3,
+        "nombre": "Bocha",
+        "marca": "DRIAL",
+        "modelo": "Lisa Blanca",
+        "precio": 600,
+        "stock": 50,
+        "img": "https://firebasestorage.googleapis.com/v0/b/emerald-spring-354118.appspot.com/o/bocha-lisa-blanca.jpg?alt=media&token=b697dfc6-7ea6-479c-8ee6-6e7963286ffd"
     }
-
 ]
